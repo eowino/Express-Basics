@@ -1,0 +1,18 @@
+{
+	"Cheesecake":{
+		"title": "Cheesecake",
+		"description":"Truffaut portland kale chips beard pabst. Artisan irony you probably haven't heard of them farm-to-table"
+	},
+	"Mango":{
+		"title": "Mango",
+		"description":"IPhone williamsburg single-origin coffee ethical VHS."
+	},
+	"Lollipop":{
+		"title": "Lollipop",
+		"description":"Fanny pack semiotics DIY quinoa pug"
+	},
+	"Vanilla":{
+		"title": "Vanilla",
+		"description":"Cronut ethical keytar gluten-free sustainable synth, franzen man bun viral kinfolk +1 pour-over shabby chic vinyl portland"
+	}
+}
